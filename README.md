@@ -5,7 +5,6 @@
 - 🎓 Studying Computer Science.
 - 🚀 Passionate about building modern web & mobile applications.
 - 🌱 Currently diving deeper into `SwiftUI`.
-- 👯 Always open to exciting collaborations in `web & mobile development`!
 
 ## 🛠 Skills
 
