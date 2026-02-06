@@ -4,7 +4,7 @@
 
 - 🎓 Studying Computer Science.
 - 🚀 Passionate about building modern web & mobile applications.
-- 🌱 Currently diving deeper into `React Native`.
+- 🌱 Currently diving deeper into `Angular`.
 
 ## 🛠 Skills
 
